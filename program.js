@@ -1,0 +1,2 @@
+//deklarasi
+let A 

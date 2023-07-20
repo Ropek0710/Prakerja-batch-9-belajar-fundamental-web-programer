@@ -1,0 +1,10 @@
+Algoritma menghitung luas dan keliling lingkaran
+
+1. Mulai
+2. Deklarasi variabel jari-jari (r), luas (L),dan keliling (k)
+3. Masukkan nilai jari-jari (r)
+4. Proses hitung luas (L) lingkaran
+5. Proses hitung keliling (K) lingkaran
+6. Tampilkan Luas (L) lingkaran
+7. Tampilkan keliling (K) lingkaran
+8. Selesai
